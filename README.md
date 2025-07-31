@@ -69,7 +69,7 @@ credit-dashboard/
 │   └── cleaning_and_eda.ipynb
 ├── powerbi/
 │   └── credit_dashboard.pbix
-├── screenshots/
+├── screnshoots/
 │   ├── credit.png
 │   └── high_risk.png
 ├── README.md
