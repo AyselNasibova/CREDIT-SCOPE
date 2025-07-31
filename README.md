@@ -29,7 +29,7 @@ The project is based on a raw dataset with inconsistent entries, which was clean
 - **Customer Distribution Map** (Region-level)  
 - **Dynamic filters**: by Region, Gender, Date Range  
 
-## 📸 Screenshots
+## 📸 Screnshoots
 
 ### 🔹 Credit Overview Page  
 ![Credit Dashboard](screenshots/credit.png)
