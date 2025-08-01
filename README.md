@@ -29,13 +29,6 @@ The project is based on a raw dataset with inconsistent entries, which was clean
 - **Customer Distribution Map** (Region-level)  
 - **Dynamic filters**: by Region, Gender, Date Range  
 
-## 📸 Screnshoots
-
-### 🔹 Credit Overview Page  
-![Credit Dashboard](screenshots/credit.png)
-
-### 🔹 High-Risk Analysis Page  
-![High Risk Dashboard](screenshots/high_risk.png)
 
 ## 🧼 Data Cleaning
 
@@ -70,8 +63,6 @@ credit-dashboard/
 ├── powerbi/
 │   └── credit_dashboard.pbix
 ├── screnshoots/
-│   ├── credit.png
-│   └── high_risk.png
 ├── README.md
 └── requirements.txt
 ```
